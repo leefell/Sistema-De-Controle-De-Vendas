@@ -117,7 +117,7 @@ Contribuições são bem-vindas! Se você tiver alguma melhoria ou correção a 
 
 ## Licença
 
-Este projeto é licenciado sob os termos da [MIT License](LICENSE).
+Este projeto é licenciado sob os termos da [Apache-2.0 license](LICENSE).
 
 ## Autor
 
